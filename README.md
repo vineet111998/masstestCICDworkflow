@@ -1,9 +1,12 @@
 # masstestCICDworkflow
 Testing for Mass CI CD
 
-## Working Company
-MASS
- 
+## To install Dependencies
+
+```powershell
+      npm install
+```
+
 ## To Run The Application 
 
 ```powwershell
